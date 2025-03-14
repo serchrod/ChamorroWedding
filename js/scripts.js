@@ -148,7 +148,7 @@ var tables = {
         },
         {
             "name": "Daniela",
-            "alias": "mushisha",
+            "alias": "mushashisha",
             "tableId": "3"
         },
         {
