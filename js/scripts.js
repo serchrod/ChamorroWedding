@@ -7,28 +7,33 @@ var tables = {
             "tableId": "1"
         },
         {
+            "name": "Marvin Jr",
+            "alias": "Nitu (Im Geist)",
+            "tableId": "1"
+        },
+        {
             "name": "Adelaida",
-            "alias": "",
+            "alias": "Mama",
             "tableId": "1"
         },
         {
             "name": "Isaura",
-            "alias": "",
+            "alias": "Abuelita",
             "tableId": "1"
         },
         {
             "name": "Karen",
-            "alias": "",
+            "alias": "Tia",
             "tableId": "1"
         },
         {
             "name": "Julius",
-            "alias": "",
+            "alias": "Julius el Grande",
             "tableId": "1"
         },
         {
             "name": "Beatriz",
-            "alias": "",
+            "alias": "Tia",
             "tableId": "1"
         },
         {
@@ -38,46 +43,46 @@ var tables = {
         },
         {
             "name": "Maria Delia",
-            "alias": "",
+            "alias": "Prima",
             "tableId": "1"
         },
         {
             "name": "Neydi",
-            "alias": "",
+            "alias": "Ney",
             "tableId": "1"
         }, {
             "name": "Raul",
-            "alias": "",
+            "alias": "Primo Raul",
             "tableId": "1"
         },
         {
             "name": "Carmen",
-            "alias": "",
+            "alias": "Tia Carmen",
             "tableId": "1"
         },
         {
             "name": "Mauricio",
-            "alias": "",
+            "alias": "Tio bebo",
             "tableId": "1"
         },
         {
             "name": "Gladys",
-            "alias": "",
+            "alias": "yayita",
             "tableId": "1"
         },
         {
-            "name": "Scarlet",
-            "alias": "",
+            "name": "Scarleth",
+            "alias": "Primaq",
             "tableId": "1"
         },
         {
             "name": "Harley",
-            "alias": "",
+            "alias": "primo",
             "tableId": "1"
         },
         {
             "name": "Harley Jr.",
-            "alias": "",
+            "alias": "Harlito",
             "tableId": "1"
         }
     ],
@@ -88,115 +93,154 @@ var tables = {
     },
     {
         "name": "Nidia",
-        "alias": "",
+        "alias": "choisi",
         "tableId": "2"
     },
     {
         "name": "Yader Antonio",
-        "alias": "",
+        "alias": "yukisi",
         "tableId": "2"
     },
     {
         "name": "Samantha",
-        "alias": "",
+        "alias": "La Peligrosa",
         "tableId": "2"
     },
     {
         "name": "Karlita",
-        "alias": "",
+        "alias": "Cunis",
         "tableId": "2"
     },
     {
         "name": "Sergio Antonio",
-        "alias": "",
+        "alias": "El Dark",
         "tableId": "2"
+    }, {
+        "name": "Aldo",
+        "alias": "Aldo culion",
+        "tableId": "6"
+    },
+    {
+        "name": "Felipe",
+        "alias": "Devorador de mundos",
+        "tableId": "6"
+    },
+    {
+        "name": "Leonardo",
+        "alias": "moclinardo",
+        "tableId": "6"
+    },
+    {
+        "name": "Emerita",
+        "alias": "Memerita",
+        "tableId": "6"
     }],
     "3": [
         {
             "name": "Bretna",
-            "alias": "",
+            "alias": "baby",
             "tableId": "3"
         },
         {
             "name": "Erick",
-            "alias": "",
+            "alias": "cutie pie",
             "tableId": "3"
         },
         {
             "name": "Daniela",
-            "alias": "",
+            "alias": "mushisha",
             "tableId": "3"
         },
         {
-            "name": "Juan",
-            "alias": "",
+            "name": "Juan Pablo",
+            "alias": "Juan",
             "tableId": "3"
         },
         {
             "name": "Isadriana",
-            "alias": "isa",
+            "alias": "cupcake",
             "tableId": "3"
         },
         {
             "name": "Alma",
-            "alias": "",
+            "alias": "pitu",
+            "tableId": "3"
+        },
+        {
+            "name": "Cory Johnson",
+            "alias": "In Spirit",
             "tableId": "3"
         },
         {
             "name": "Lucia",
-            "alias": "",
+            "alias": "lucha",
             "tableId": "3"
         },
         {
             "name": "Sandra",
-            "alias": "",
+            "alias": "Sandris",
             "tableId": "3"
         },
         {
             "name": "Jessy",
-            "alias": "",
+            "alias": "coco",
             "tableId": "3"
         },
         {
             "name": "Jose",
-            "alias": "",
+            "alias": "Amigo",
+            "tableId": "3"
+        },
+        {
+            "name": "Marcelo",
+            "alias": "En Espiritu",
+            "tableId": "3"
+        },
+        {
+            "name": "Kiara",
+            "alias": "En Espiritu",
+            "tableId": "3"
+        },
+        {
+            "name": "Gianci",
+            "alias": "En Espiritu",
             "tableId": "3"
         }
     ],
     "4": [
         {
             "name": "Elisa",
-            "alias": "",
+            "alias": "Elibebe",
             "tableId": "4"
         },
         {
             "name": "Martin",
-            "alias": "",
+            "alias": "El Abogado bandido",
             "tableId": "4"
         },
         {
             "name": "Rodrigo",
-            "alias": "",
+            "alias": "Rodri",
             "tableId": "4"
         },
         {
             "name": "Franco",
-            "alias": "",
+            "alias": "Franquis",
             "tableId": "4"
         },
         {
             "name": "Thelma",
-            "alias": "",
+            "alias": "Thelmis",
             "tableId": "4"
         },
         {
-            "name": "Nico",
-            "alias": "",
+            "name": "Nicolas",
+            "alias": "Nico",
             "tableId": "4"
         },
         {
             "name": "Alina",
-            "alias": "",
+            "alias": "amigui",
             "tableId": "4"
         },
         {
@@ -205,13 +249,13 @@ var tables = {
             "tableId": "4"
         },
         {
-            "name": "Nicole",
-            "alias": "",
+            "name": "Larley",
+            "alias": "Nicole",
             "tableId": "4"
         },
         {
             "name": "Augusto",
-            "alias": "",
+            "alias": "tuto",
             "tableId": "4"
         }
     ],
@@ -222,13 +266,13 @@ var tables = {
             "tableId": "5"
         },
         {
-            "name": "Stacey",
+            "name": "Stacy",
             "alias": "",
             "tableId": "5"
         },
         {
             "name": "Ronald",
-            "alias": "voids",
+            "alias": "El Void",
             "tableId": "5"
         },
         {
@@ -243,7 +287,7 @@ var tables = {
         },
         {
             "name": "Karina",
-            "alias": "",
+            "alias": "Kari",
             "tableId": "5"
         },
         {
@@ -252,36 +296,14 @@ var tables = {
             "tableId": "5"
         },
         {
-            "name": "Novia de Kelvin",
-            "alias": "",
+            "name": "Ingris",
+            "alias": "La Novia de Kelvin",
             "tableId": "5"
         },
         {
             "name": "Judith",
-            "alias": "",
+            "alias": "morita",
             "tableId": "5"
-        }
-    ],
-    "6": [
-        {
-            "name": "Aldo",
-            "alias": "Aldo culion",
-            "tableId": "6"
-        },
-        {
-            "name": "Felipe",
-            "alias": "Devorador de mundos",
-            "tableId": "6"
-        },
-        {
-            "name": "Leonardo",
-            "alias": "moclinardo",
-            "tableId": "6"
-        },
-        {
-            "name": "Emerita",
-            "alias": "Memerita",
-            "tableId": "6"
         }
     ]
 }
@@ -307,6 +329,8 @@ function findGuestAndCompanions(nameOrAlias) {
                 if (guestNameLower === searchLower || guestAliasLower === searchLower) {
                     return {
                         tableId: tableId,
+                        alias: guests[i].alias,
+                        name: guestNameLower,
                         guest: guests[i],
                         companions: guests.filter(guest => guest !== guests[i])
                     };
@@ -326,7 +350,9 @@ function findGuestAndCompanions(nameOrAlias) {
                 if (guestNameLower.includes(searchLower) || guestAliasLower.includes(searchLower)) {
                     return {
                         tableId: tableId,
-                        guest: guests[i],
+                        name: guestNameLower,
+                        alias: guests[i].alias,
+                        guest: guests[i].name,
                         companions: guests.filter(guest => guest !== guests[i])
                     };
                 }
@@ -343,10 +369,11 @@ function fetchAndDisplay() {
 
     if (guestInfo) {
         let output = `<h2>Mesa # ${guestInfo.tableId} Asientos: ${guestInfo.companions.length + 1}</h2>`;
-        output += `<h3>Compañeros de Mesa</h3>`; // Added heading
+        output += `<div><h3 "background-color":"green">Asiento encontrado:</h3></div><h3 style="color:green">${toTitleCase(guestInfo.name)} (${toTitleCase(guestInfo.alias)})</h3>`;
+        output += `<h4>Compañeros de Mesa</h4>`; // Added heading
         output += `<ul>`;
         guestInfo.companions.forEach(companion => {
-            output += `<li>${companion.name}</li>`;
+            output += `<li>${companion.name} (${toTitleCase(companion.alias)})</li>`;
         });
         output += `</ul>`;
         modalContent.innerHTML = output;
