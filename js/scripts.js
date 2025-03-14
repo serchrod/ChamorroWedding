@@ -117,7 +117,7 @@ var tables = {
         "tableId": "2"
     }, {
         "name": "Aldo",
-        "alias": "Aldo culion",
+        "alias": "El Peruano",
         "tableId": "6"
     },
     {
